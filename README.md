@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AHLogo.png" alt="ArtHeist Logo" width="300"/>
+</p>
+
 # ArtHeist
 
 A 2D platformer game developed for the 2020 DemonHacks Hackathon. Players navigate through levels, interact with game elements, and face enemies in pursuit of a museum heist theme.
