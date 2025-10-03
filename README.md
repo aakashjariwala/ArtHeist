@@ -2,7 +2,7 @@
 
 A 2D platformer game developed for the 2020 DemonHacks Hackathon. Players navigate through levels, interact with game elements, and face enemies in pursuit of a museum heist theme.
 
-## Tech Stack & Technologies
+## Tech Stack
 
 - **Language:** Python
 - **Game Modules:** Custom modules such as `player.py`, `level.py`, `enemy.py`, `painting.py`, `score.py`, etc.
